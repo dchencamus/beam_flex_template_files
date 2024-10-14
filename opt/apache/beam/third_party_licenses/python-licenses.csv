@@ -1,10 +1,13 @@
 Cython,https://raw.githubusercontent.com/cython/cython/master/LICENSE.txt,Apache Software License
-Deprecated,https://raw.githubusercontent.com/tantale/deprecated/master/LICENSE.rst,MIT License
+Jinja2,https://palletsprojects.com/p/jinja/,BSD License
 Js2Py,https://raw.githubusercontent.com/PiotrDabkowski/Js2Py/master/LICENSE.md,MIT
+MarkupSafe,https://palletsprojects.com/p/markupsafe/,BSD License
 PyHamcrest,https://raw.githubusercontent.com/hamcrest/PyHamcrest/master/LICENSE.txt,BSD License
 PyMySQL,UNKNOWN,MIT License
 PyYAML,https://pyyaml.org/,MIT License
 SQLAlchemy,https://www.sqlalchemy.org,MIT License
+annotated-types,https://raw.githubusercontent.com/annotated-types/annotated-types/master/LICENSE,MIT License
+async-timeout,https://raw.githubusercontent.com/aio-libs/async-timeout/master/LICENSE,Apache Software License
 attrs,https://www.attrs.org/en/stable/changelog.html,MIT License
 beautifulsoup4,file:///tmp/license_scripts/manual_licenses/beautifulsoup4/LICENSE,MIT License
 bs4,skip,MIT License
@@ -23,7 +26,7 @@ dill,https://pypi.org/project/dill,BSD License
 dnspython,https://www.dnspython.org,ISC License (ISCL)
 docker,https://raw.githubusercontent.com/docker/docker-py/master/LICENSE,Apache Software License
 docopt,http://docopt.org,MIT License
-docstring-parser,https://raw.githubusercontent.com/rr-/docstring_parser/master/LICENSE.md,MIT License
+docstring_parser,https://raw.githubusercontent.com/rr-/docstring_parser/master/LICENSE.md,MIT License
 exceptiongroup,https://github.com/agronholm/exceptiongroup/blob/main/CHANGES.rst,MIT License
 execnet,https://execnet.readthedocs.io/en/latest/,MIT License
 fastavro,https://raw.githubusercontent.com/fastavro/fastavro/master/LICENSE,MIT License
@@ -89,26 +92,29 @@ psycopg2-binary,https://psycopg.org/,GNU Library or Lesser General Public Licens
 pyarrow,https://raw.githubusercontent.com/apache/arrow/master/LICENSE.txt,Apache Software License
 pyarrow-hotfix,https://raw.githubusercontent.com/pitrou/pyarrow-hotfix/master/LICENSE.txt,"Apache License, Version 2.0"
 pyasn1,https://raw.githubusercontent.com/pyasn1/pyasn1/master/LICENSE.rst,BSD License
-pyasn1-modules,https://raw.githubusercontent.com/pyasn1/pyasn1-modules/master/LICENSE.txt,BSD License
+pyasn1_modules,https://raw.githubusercontent.com/pyasn1/pyasn1-modules/master/LICENSE.txt,BSD License
 pycparser,https://raw.githubusercontent.com/eliben/pycparser/master/LICENSE,BSD License
-pydot,https://raw.githubusercontent.com/pydot/pydot/master/LICENSE,MIT License
+pydantic,https://raw.githubusercontent.com/pydantic/pydantic/master/LICENSE,MIT License
+pydantic_core,https://raw.githubusercontent.com/pydantic/pydantic-core/master/LICENSE,MIT License
+pydot,https://github.com/pydot/pydot,MIT License
 pyjsparser,https://github.com/PiotrDabkowski/pyjsparser/blob/master/LICENSE,MIT
 pymongo,https://raw.githubusercontent.com/mongodb/mongo-python-driver/master/LICENSE,Apache Software License
 pyparsing,https://raw.githubusercontent.com/pyparsing/pyparsing/master/LICENSE,MIT License
-pyproject_hooks,https://raw.githubusercontent.com/pypa/pyproject-hooks/master/LICENSE,MIT License
+pyproject_hooks,https://raw.githubusercontent.com/pypa/pyproject-hooks/main/LICENSE,MIT License
 pytest,https://docs.pytest.org/en/latest/,MIT License
 pytest-timeout,https://raw.githubusercontent.com/pytest-dev/pytest-timeout/master/LICENSE,DFSG approved; MIT License
 pytest-xdist,https://raw.githubusercontent.com/pytest-dev/pytest-xdist/master/LICENSE,MIT License
 python-dateutil,https://raw.githubusercontent.com/dateutil/dateutil/master/LICENSE,Apache Software License; BSD License
 python-snappy,https://raw.githubusercontent.com/intake/python-snappy/master/LICENSE,BSD License
 pytz,http://pythonhosted.org/pytz,MIT License
+redis,https://raw.githubusercontent.com/redis/redis-py/master/LICENSE,MIT License
 referencing,https://raw.githubusercontent.com/python-jsonschema/referencing/master/COPYING,MIT License
 regex,https://raw.githubusercontent.com/mrabarnett/mrab-regex/master/LICENSE.txt,Apache Software License
 requests,https://requests.readthedocs.io,Apache Software License
 requests-mock,https://requests-mock.readthedocs.io/,Apache Software License
 rpds-py,https://raw.githubusercontent.com/crate-py/rpds/master/LICENSE,MIT License
 rsa,https://stuvel.eu/rsa,Apache Software License
-scikit-learn,https://scikit-learn.org,BSD License
+scikit-learn,https://raw.githubusercontent.com/scikit-learn/scikit-learn/master/COPYING,BSD License
 scipy,https://raw.githubusercontent.com/scipy/scipy/master/LICENSE.txt,BSD License
 shapely,https://raw.githubusercontent.com/shapely/shapely/master/LICENSE.txt,BSD License
 six,https://raw.githubusercontent.com/benjaminp/six/master/LICENSE,MIT License
@@ -118,7 +124,6 @@ sqlparse,https://raw.githubusercontent.com/andialbrecht/sqlparse/master/LICENSE,
 tenacity,https://raw.githubusercontent.com/jd/tenacity/master/LICENSE,Apache Software License
 testcontainers,https://raw.githubusercontent.com/testcontainers/testcontainers-python/master/LICENSE.txt,Apache Software License
 threadpoolctl,https://raw.githubusercontent.com/joblib/threadpoolctl/master/LICENSE,BSD License
-tomli,https://raw.githubusercontent.com/hukkin/tomli/master/LICENSE,MIT License
 tqdm,https://tqdm.github.io,MIT License; Mozilla Public License 2.0 (MPL 2.0)
 typing_extensions,https://raw.githubusercontent.com/python/typing_extensions/master/LICENSE,Python Software Foundation License
 tzdata,https://raw.githubusercontent.com/python/tzdata/master/LICENSE,Apache Software License
