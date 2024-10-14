@@ -15,12 +15,12 @@ To update these dependencies, from this directory, run something like
 # To update apache beam version
 docker pull apache/beam_python3.10_sdk:2.59.0
 cid=$(docker create apache/beam_python3.10_sdk:2.59.0)
-docker cp $cid:/opt/apache opt/apache
+docker cp $cid:/opt/apache opt
 ```
 
 ```
 # To update flex templates base image
 docker pull gcr.io/dataflow-templates-base/python310-template-launcher-base:flex_templates_base_image_release_20240918_RC00
 cid=$(docker create gcr.io/dataflow-templates-base/python310-template-launcher-base:flex_templates_base_image_release_20240918_RC00)
-docker cp $cid:/opt/google opt/google
+docker cp $cid:/opt/google opt
 ```
